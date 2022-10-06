@@ -6,8 +6,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-![next-cloudbunnies-nft-landing-page vercel app(landing)](https://user-images.githubusercontent.com/101833474/194227684-82023ce8-0acc-47c3-a70a-8e0ef40030fa.jpg)
-
 
 ## Demo Application
 
