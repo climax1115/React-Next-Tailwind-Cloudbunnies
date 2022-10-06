@@ -8,7 +8,8 @@ Please check out this link(https://next-cloudbunnies-nft-landing-page.vercel.app
 
 I deployed it using Vercel hosting service.
 
-## Figma Design (https://www.figma.com/file/am9c5lCj252ZzEq8myjkwL/Untitled?node-id=3%3A2%27)
+## Figma Design 
+(https://www.figma.com/file/am9c5lCj252ZzEq8myjkwL/Untitled?node-id=3%3A2%27)
 
 
 ## Getting Started
