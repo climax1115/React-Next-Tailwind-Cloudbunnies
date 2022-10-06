@@ -1,11 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-
-
 ![next-cloudbunnies-nft-landing-page vercel app](https://user-images.githubusercontent.com/101833474/194227674-f3b24afb-b875-45df-a497-569bdcb38374.png)
-
-
-
 
 ## Demo Application
 
